@@ -55,7 +55,7 @@
     "webpack-stream": "^2.1.0"
   },
   "dependencies": {
-    "fbemitter": "^2.0.0",
+    "fbemitter": "^3.0.0",
     "fbjs": "0.1.0-alpha.7",
     "immutable": "^3.7.4"
   },
